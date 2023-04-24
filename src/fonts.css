@@ -1,7 +1,12 @@
 @font-face {
-  font-family: "MyFont";
-  src: url("./fonts/spartan-medium.woff") format("woff"),
-    url("./fonts/spartan.woff") format("woff");
+  font-family: "spartanmedium";
+  src: url("./fonts/spartan-medium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "spartan";
+  src: url("./fonts/spartan.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
