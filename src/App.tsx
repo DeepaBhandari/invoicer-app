@@ -5,7 +5,7 @@ import "./fonts.css";
 function App() {
   return (
     <>
-      <div className="text-blue-400 font-bold text-3xl "><Invoice/></div>
+      <div className="h-screen w-screen flex flex-col "><Invoice/></div>
     </>
   );
 }
